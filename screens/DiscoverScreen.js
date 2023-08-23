@@ -91,7 +91,7 @@ const DiscoverScreen = () => {
             setTr_lng(details?.geometry?.viewport?.northeast?.lng);
           }}
           query={{
-            key: "AIzaSyD0tVVkAptoiHi5Io-XF5JES3UDX4TWhrI",
+            key: "insert API KEy here ",
             language: "en",
           }}
         />
